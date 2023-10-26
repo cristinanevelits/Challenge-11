@@ -15,9 +15,9 @@
 
 ## Screenshots:
 
- ![Screenshot#1]()
- ![Screenshot#1]()
- ![Screenshot#1]()
+![Screenshot#1](https://github.com/cristinanevelits/Challenge-11/blob/main/public/assets/css/Screenshot%202023-10-25%20at%2011.46.28%20PM.png)
+![Screenshot#2](https://github.com/cristinanevelits/Challenge-11/blob/main/public/assets/css/Screenshot%202023-10-25%20at%2011.46.36%20PM.png)
+![Screenshot#3](https://github.com/cristinanevelits/Challenge-11/blob/main/public/assets/css/Screenshot%202023-10-25%20at%2011.46.43%20PM.png)
 
 ## Heroku Deployed App Link: https://take-some-notes-5976b74a23ec.herokuapp.com/ 
 
